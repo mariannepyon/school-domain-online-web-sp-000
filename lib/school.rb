@@ -11,7 +11,7 @@ ROSTER = []
     @new
   end
 
-  def roster= (new)
+  def roster= {}
     @roster = roster
   end
 
