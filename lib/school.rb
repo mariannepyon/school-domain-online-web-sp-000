@@ -7,4 +7,12 @@ class School
   def new
     @new
   end
+
+  def roster= (roster)
+    @roster = roster
+  end
+
+  def roster
+    @roster
+  end
 end
