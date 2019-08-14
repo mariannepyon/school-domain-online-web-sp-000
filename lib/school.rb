@@ -10,5 +10,5 @@ ROSTER = []
   def new
     @new
   end
-
+end
   
