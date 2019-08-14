@@ -12,7 +12,7 @@ ROSTER = []
   end
 
   def roster= {}
-  
+
   end
 
 end
